@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "minimal.dot.workspace",
+  "name": "Minimal Dot Workspace",
+  "version": "1.0.0",
+  "description": "Minimalist dot-style workspace indicators",
+  "kinds": ["bar-widget"],
+  "entryPoints": {
+    "barWidget": "Workspaces.qml"
+  },
+  "barWidget": {
+    "displayName": "Minimal Dot Workspace",
+    "description": "Dot-style workspace indicators (waybar-inspired)",
+    "category": "Compositor",
+    "allowMultiple": false
+  }
+}
