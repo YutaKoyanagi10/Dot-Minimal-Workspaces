@@ -5,7 +5,7 @@ Minimalist dot-style workspace indicators for the [Omarchy](https://omarchy.org/
 ## Install
 
 ```bash
-omarchy plugin add https://github.com/YOUR_USER/minimal-dot-workspace.git --enable
+omarchy plugin add https://github.com/YutaKoyanagi10/Dot-Minimal-Workspaces.git --enable
 ```
 
 ## Requirements
