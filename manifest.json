@@ -4,6 +4,7 @@
   "name": "Minimal Dot Workspace",
   "version": "1.0.0",
   "author": "yuta",
+  "license": "MIT",
   "description": "Minimalist dot-style workspace indicators",
   "kinds": ["bar-widget"],
   "entryPoints": {
@@ -12,7 +13,7 @@
   "barWidget": {
     "displayName": "Minimal Dot Workspace",
     "description": "Dot-style workspace indicators",
-    "category": "Compositor",
+    "category": "Appearance",
     "allowMultiple": false,
     "defaultSection": "left"
   }

@@ -2,12 +2,18 @@
 
 Minimalist dot-style workspace indicators for the [Omarchy](https://omarchy.org/) shell bar.
 
-![Screenshot](screenshot-2026-08-20_14-52-50.png)
+![Preview](preview.png)
 
 ## Install
 
 ```bash
 omarchy plugin add https://github.com/YutaKoyanagi10/Dot-Minimal-Workspaces.git --enable
+```
+
+## Remove
+
+```bash
+omarchy plugin remove minimal.dot.workspace
 ```
 
 ## Requirements
