@@ -3,6 +3,7 @@
   "id": "minimal.dot.workspace",
   "name": "Minimal Dot Workspace",
   "version": "1.0.0",
+  "author": "yuta",
   "description": "Minimalist dot-style workspace indicators",
   "kinds": ["bar-widget"],
   "entryPoints": {
@@ -10,12 +11,9 @@
   },
   "barWidget": {
     "displayName": "Minimal Dot Workspace",
-    "description": "Dot-style workspace indicators (waybar-inspired)",
+    "description": "Dot-style workspace indicators",
     "category": "Compositor",
     "allowMultiple": false,
     "defaultSection": "left"
-  },
-  "omarchy": {
-    "clonedFrom": "omarchy.workspaces"
   }
 }
