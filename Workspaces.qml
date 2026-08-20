@@ -35,7 +35,7 @@ BarWidget {
   readonly property var workspaceIds: computeIds()
 
   implicitWidth: row.implicitWidth
-  implicitHeight: row.implicitHeight
+  implicitHeight: barSize
 
   Row {
     id: row
