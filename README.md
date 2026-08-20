@@ -2,6 +2,8 @@
 
 Minimalist dot-style workspace indicators for the [Omarchy](https://omarchy.org/) shell bar.
 
+![Screenshot](screenshot-2026-08-20_14-52-50.png)
+
 ## Install
 
 ```bash
