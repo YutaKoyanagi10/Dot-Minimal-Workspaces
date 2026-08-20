@@ -12,6 +12,10 @@
     "displayName": "Minimal Dot Workspace",
     "description": "Dot-style workspace indicators (waybar-inspired)",
     "category": "Compositor",
-    "allowMultiple": false
+    "allowMultiple": false,
+    "defaultSection": "left"
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.workspaces"
   }
 }
