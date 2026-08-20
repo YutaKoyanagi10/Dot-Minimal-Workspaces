@@ -5,18 +5,7 @@ Minimalist dot-style workspace indicators for the [Omarchy](https://omarchy.org/
 ## Install
 
 ```bash
-cd ~/.config/omarchy/plugins
-git clone https://github.com/YOUR_USER/minimal-dot-workspace.git minimal.dot.workspace
-```
-
-Then add to your `~/.config/omarchy/shell.json` bar layout:
-
-```json
-"left": [
-  {
-    "id": "minimal.dot.workspace"
-  }
-]
+omarchy plugin add https://github.com/YOUR_USER/minimal-dot-workspace.git --enable
 ```
 
 ## Features
